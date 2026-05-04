@@ -19,7 +19,7 @@ This project demonstrates user authentication and role-based authorization.
 
   ⚙️ Setup Instructions
 1)Clone the repo
-{git clone https://github.com/anurajkhandagale/rbac-system}
+{git clone https://github.com/anurajkhandagale/rbac-system   }
 2)Open in IntelliJ / Eclipse
 3)Configure database (MySQL)
 4)Add server (Apache Tomcat)
