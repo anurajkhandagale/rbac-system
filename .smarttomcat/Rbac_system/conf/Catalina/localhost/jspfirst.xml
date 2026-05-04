@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:/Users/Anuraj/IdeaProjects/jspfirst/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PostResources base="C:/Users/Anuraj/.m2/repository/org/jetbrains/annotations/26.0.2-1/annotations-26.0.2-1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/annotations-26.0.2-1.jar"/>
+  </Resources>
+</Context>
